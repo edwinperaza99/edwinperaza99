@@ -17,7 +17,7 @@
     <!-- GitHub streak -->
     <img style="width: 56%" align="center" src="https://streak-stats.demolab.com?user=edwinperaza99&theme=tokyonight">
     <!-- Most used languages -->
-    <img style="width: 40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinperaza99&layout=compact&theme=tokyonight">
+    <img style="width: 40.5%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinperaza99&layout=compact&theme=tokyonight">
 </div>
 
 <!-- footer -->
