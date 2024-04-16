@@ -30,6 +30,7 @@ class AboutMe:
 </div>
 
 <!-- profile views  -->
+<br>
 <img src="https://komarev.com/ghpvc/?username=edwinperaza99&style=plastic&color=0a0047">
 <!-- footer -->
 <div align="center">
