@@ -7,17 +7,23 @@
 class AboutMe:
     def __init__(self):
         self.name = "Edwin Peraza"
-        self.education = "California State University, Fullerton"
-        self.description = "love learning new things"
+        self.education = "B.S. in Computer Science at California State University, Fullerton"
+        self.description = "I am passionate about learning new things and solving complex problems."
         self.skills = {
-            "programming_languages": ["Python", "JavaScript", "Swift", "C++"],
+            "programming_languages": ["Python", "JavaScript", "Swift", "C++", "C"],
+            "front_end_skills": ["HTML", "CSS", "JavaScript", "React", "NextJs","TailwindCSS", "shadcn"],
+            "back_end_skills": ["Python", "FastAPI", "Flask", "Node.js", "Firebase"],
+            "mobile_development": ["Swift", "SwiftUI", "React Native"],
+            "databases": ["MySql", "SQLite3", "DynamoDB", "Firebase"],
             "version_control": ["Git", "GitHub"],
-            "databases": ["MySql", "SQLite3", "DynamoDB"]
             "tools": ["Postman", "Figma"]
         }
 
-    def greet(self):
-        return f"Hi, I'm {self.name} and I {self.description}!"
+    def __str__(self):
+        return f"Hi, I'm {self.name}. {self.description}!"
+
+    me = AboutMe()
+    print(me)
 ```
 
 <h2 align="center">🔥 My Current Stats 🔥</h2>
