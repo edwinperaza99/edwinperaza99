@@ -7,11 +7,18 @@
 
 <!-- GitHub streak -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=edwinperaza99&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=edwinperaza99&theme=tokyonight)](https://git.io/streak-stats) -->
 
 <!-- Most used languages -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinperaza99&layout=compact&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinperaza99&layout=compact&theme=tokyonight) -->
+
+<div style="display: flex; justify-content: space-between;">
+    <!-- GitHub streak -->
+    <img src="https://streak-stats.demolab.com?user=edwinperaza99&theme=tokyonight">
+    <!-- Most used languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinperaza99&layout=compact&theme=tokyonight">
+</div>
 
 <!-- footer -->
 <div align="center">
