@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=Hey%20there,%20I'm%20Edwin&section=header&textBg=false&fontAlignY=48&animation=twinkling&desc=🍣%20🎢%20🍿%20🕹️%20🍦%20🏓%20🍕&descAlign=78&descAlignY=62&descSize=19"/>
 </div>
 
-<p style="font-size: 2em; font-weight: bold;" align="center">🔥 My Current Stats 🔥</p>
+<p style="font-size: 18px; font-weight: bold;" align="center">🔥 My Current Stats 🔥</p>
 
 <!-- GitHub streak -->
 
@@ -13,9 +13,9 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinperaza99&layout=compact&theme=tokyonight) -->
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 30px;">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 40px;">
     <!-- GitHub streak -->
-    <img style="width: 55%" align="center" src="https://streak-stats.demolab.com?user=edwinperaza99&theme=tokyonight">
+    <img style="width: 56%" align="center" src="https://streak-stats.demolab.com?user=edwinperaza99&theme=tokyonight">
     <!-- Most used languages -->
     <img style="width: 40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinperaza99&layout=compact&theme=tokyonight">
 </div>
