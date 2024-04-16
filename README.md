@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=Hey%20there,%20I'm%20Edwin&section=header&textBg=false&fontAlignY=48&animation=twinkling&desc=🍣%20🎢%20🍿%20🕹️%20🍦%20🏓%20🍕&descAlign=78&descAlignY=62&descSize=19"/>
 </div>
 
-## <p align="center">About Me</p>
-
 ```python
 class AboutMe:
     def __init__(self):
