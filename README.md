@@ -11,7 +11,9 @@ class AboutMe:
         self.description = "I am passionate about learning new things and solving complex problems."
         self.skills = {
             "programming_languages": ["Python", "JavaScript", "Swift", "C++", "C"],
-            "front_end_skills": ["HTML", "CSS", "JavaScript", "TypeScript", "React.js", "Next.js","TailwindCSS", "shadcn"],
+            "front_end_skills": [
+                "HTML", "CSS", "JavaScript", "TypeScript", "React.js", "Next.js", "TailwindCSS", "Bootstrap", "shadcn"
+            ],
             "back_end_skills": ["Python", "FastAPI", "Flask", "Node.js", "Firebase"],
             "mobile_development": ["Swift", "SwiftUI", "React Native"],
             "databases": ["MySql", "SQLite3", "DynamoDB", "Firebase"],
