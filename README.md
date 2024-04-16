@@ -3,8 +3,28 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=Hey%20there,%20I'm%20Edwin&section=header&textBg=false&fontAlignY=48&animation=twinkling&desc=🍣%20🎢%20🍿%20🕹️%20🍦%20🏓%20🍕&descAlign=78&descAlignY=62&descSize=19"/>
 </div>
 
-## <p style="font-size: 18px; font-weight: bold;" align="center">🔥 My Current Stats 🔥</p>
+## <p align="center">About Me</p>
 
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Edwin Peraza"
+        self.education = "California State University, Fullerton"
+        self.description = "love learning new things"
+        self.skills = {
+            "programming_languages": ["Python", "JavaScript", "Swift", "C++"],
+            "version_control": ["Git", "GitHub"],
+            "databases": ["MySql", "SQLite3", "DynamoDB"]
+            "tools": ["Postman", "Figma"]
+        }
+
+    def greet(self):
+        return f"Hi, I'm {self.name} and I {self.description}!"
+```
+
+## <p align="center">🔥 My Current Stats 🔥</p>
+
+<!-- <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"> -->
 <!-- GitHub streak -->
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=edwinperaza99&theme=tokyonight)](https://git.io/streak-stats) -->
