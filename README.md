@@ -15,9 +15,9 @@
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
     <!-- GitHub streak -->
-    <img height="300" align="center" src="https://streak-stats.demolab.com?user=edwinperaza99&theme=tokyonight">
+    <img height="150" align="center" src="https://streak-stats.demolab.com?user=edwinperaza99&theme=tokyonight">
     <!-- Most used languages -->
-    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinperaza99&layout=compact&theme=tokyonight">
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinperaza99&layout=compact&theme=tokyonight">
 </div>
 
 <!-- footer -->
