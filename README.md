@@ -22,18 +22,6 @@ class AboutMe:
 
 <h2 align="center">🔥 My Current Stats 🔥</h2>
 
-<!-- profile counter -->
-<img align="center" src="https://komarev.com/ghpvc/?username=edwinperaza99&style=plastic&color=0a0047">
-
-<!-- <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"> -->
-<!-- GitHub streak -->
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=edwinperaza99&theme=tokyonight)](https://git.io/streak-stats) -->
-
-<!-- Most used languages -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinperaza99&layout=compact&theme=tokyonight) -->
-
 <div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 40px;">
     <!-- GitHub streak -->
     <img style="width: 57%" align="center" src="https://streak-stats.demolab.com?user=edwinperaza99&theme=tokyonight">
@@ -41,6 +29,8 @@ class AboutMe:
     <img style="width: 41%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinperaza99&layout=compact&theme=tokyonight">
 </div>
 
+<!-- profile views  -->
+<img src="https://komarev.com/ghpvc/?username=edwinperaza99&style=plastic&color=0a0047">
 <!-- footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=footer&textBg=false&fontAlignY=48&animation=twinkling&descAlign=78&descAlignY=62&descSize=19"/>
