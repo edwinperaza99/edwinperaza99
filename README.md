@@ -20,7 +20,10 @@ class AboutMe:
         return f"Hi, I'm {self.name} and I {self.description}!"
 ```
 
-## <p align="center">🔥 My Current Stats 🔥</p>
+<h2 align="center">🔥 My Current Stats 🔥</h2>
+
+<!-- profile counter -->
+<img align="center" src="https://komarev.com/ghpvc/?username=edwinperaza99&style=plastic&color=0a0047">
 
 <!-- <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"> -->
 <!-- GitHub streak -->
