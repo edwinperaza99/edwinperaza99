@@ -13,11 +13,11 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinperaza99&layout=compact&theme=tokyonight) -->
 
-<div style="display: flex; justify-content: space-between;">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
     <!-- GitHub streak -->
-    <img src="https://streak-stats.demolab.com?user=edwinperaza99&theme=tokyonight">
+    <img height="300" align="center" src="https://streak-stats.demolab.com?user=edwinperaza99&theme=tokyonight">
     <!-- Most used languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinperaza99&layout=compact&theme=tokyonight">
+    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinperaza99&layout=compact&theme=tokyonight">
 </div>
 
 <!-- footer -->
