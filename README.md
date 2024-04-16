@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=Hey%20there,%20I'm%20Edwin&section=header&textBg=false&fontAlignY=48&animation=twinkling&desc=🍣%20🎢%20🍿%20🕹️%20🍦%20🏓%20🍕&descAlign=78&descAlignY=62&descSize=19"/>
 </div>
 
-<p style="font-size: 18px; font-weight: bold;" align="center">🔥 My Current Stats 🔥</p>
+## <p style="font-size: 18px; font-weight: bold;" align="center">🔥 My Current Stats 🔥</p>
 
 <!-- GitHub streak -->
 
