@@ -14,7 +14,7 @@ class AboutMe:
             "front_end_skills": [
                 "HTML", "CSS", "JavaScript", "TypeScript", "React.js", "Next.js", "TailwindCSS", "Bootstrap", "shadcn"
             ],
-            "back_end_skills": ["Python", "FastAPI", "Flask", "Node.js", "Firebase"],
+            "back_end_skills": ["Python", "FastAPI", "Firebase"],
             "mobile_development": ["Swift", "SwiftUI", "React Native"],
             "databases": ["MySql", "SQLite3", "DynamoDB", "Firebase"],
             "version_control": ["Git", "GitHub"],
@@ -24,8 +24,8 @@ class AboutMe:
     def __str__(self):
         return f"Hi, I'm {self.name}. {self.description}!"
 
-    me = AboutMe()
-    print(me)
+me = AboutMe()
+print(me)
 ```
 
 <h2 align="center">🔥 My Current Stats 🔥</h2>
