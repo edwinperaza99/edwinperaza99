@@ -3,6 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=Hey%20there,%20I'm%20Edwin&section=header&textBg=false&fontAlignY=48&animation=twinkling&desc=🍣%20🎢%20🍿%20🕹️%20🍦%20🏓%20🍕&descAlign=78&descAlignY=62&descSize=19"/>
 </div>
 
+<details>
+<summary><h2 align="center">About Me</h2></summary>
+
 ```python
 class AboutMe:
     def __init__(self):
@@ -26,7 +29,10 @@ class AboutMe:
 
 me = AboutMe()
 print(me)
+
 ```
+
+</details>
 
 <h2 align="center">🔥 My Current Stats 🔥</h2>
 
@@ -44,3 +50,4 @@ print(me)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=footer&textBg=false&fontAlignY=48&animation=twinkling&descAlign=78&descAlignY=62&descSize=19"/>
 </div>
+```
