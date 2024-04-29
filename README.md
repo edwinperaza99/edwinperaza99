@@ -4,7 +4,7 @@
 </div>
 
 <details>
-<summary><h2 align="center">About Me</h2></summary>
+<summary align="center"><h2">About Me</h2></summary>
 
 ```python
 class AboutMe:
