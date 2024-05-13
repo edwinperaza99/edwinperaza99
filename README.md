@@ -15,7 +15,7 @@ class AboutMe:
         self.skills = {
             "programming_languages": ["Python", "JavaScript", "Swift", "C++", "C"],
             "front_end_skills": [
-                "HTML", "CSS", "JavaScript", "TypeScript", "React.js", "Next.js", "TailwindCSS", "Bootstrap", "shadcn"
+                "HTML", "CSS", "JavaScript", "TypeScript", "React.js", "Next.js", "Astro", "TailwindCSS", "Bootstrap", "shadcn"
             ],
             "back_end_skills": ["Python", "FastAPI", "Firebase"],
             "mobile_development": ["Swift", "SwiftUI", "React Native"],
