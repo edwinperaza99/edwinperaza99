@@ -38,9 +38,9 @@ print(me)
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 40px;">
     <!-- GitHub streak -->
-    <img style="width: 57%" align="center" src="https://streak-stats.demolab.com?user=edwinperaza99&theme=tokyonight">
+    <img style="width: 57%" align="center" src="https://github-readme-streak-stats-henna-phi.vercel.app?user=edwinperaza99&theme=tokyonight">
     <!-- Most used languages -->
-    <img style="width: 41%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinperaza99&layout=compact&theme=tokyonight">
+    <img style="width: 41%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinperaza99&layout=compact&theme=tokyonight&hide=jupyter%20notebook">
 </div>
 
 <!-- profile views  -->
